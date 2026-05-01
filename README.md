@@ -7,3 +7,10 @@ A Streamlit-based web application that analyzes how well a resume matches a give
 - 🔍 Text Processing using NLP
 - 📊 Match Score using TF-IDF + Cosine Similarity
 - 📈 Visual Match Percentage Bar
+
+# 🛠️ Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+- NLTK
+- PyPDF2
