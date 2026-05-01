@@ -21,3 +21,7 @@ A Streamlit-based web application that analyzes how well a resume matches a give
 - Convert text into numerical vectors using TF-IDF
 - Calculate similarity using Cosine Similarity
 - Display match score and visualization
+
+# Output
+
+
