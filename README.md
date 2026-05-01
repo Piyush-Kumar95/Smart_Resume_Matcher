@@ -23,7 +23,6 @@ A Streamlit-based web application that analyzes how well a resume matches a give
 - Display match score and visualization
 
 # Output
-<img width="1916" height="917" alt="Screenshot 2026-05-01 115724" src="https://github.com/user-attachments/assets/e65219a7-f86a-4b14-9476-12037ce0c3ad" />
 https://github.com/user-attachments/assets/0fe26b0d-febc-460e-b294-8abdd90ec165
 
 
