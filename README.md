@@ -14,3 +14,10 @@ A Streamlit-based web application that analyzes how well a resume matches a give
 - Scikit-learn
 - NLTK
 - PyPDF2
+
+# 🧠 How It Works
+- Extract text from uploaded resume (PDF)
+- Clean and preprocess text (tokenization, stopword removal)
+- Convert text into numerical vectors using TF-IDF
+- Calculate similarity using Cosine Similarity
+- Display match score and visualization
