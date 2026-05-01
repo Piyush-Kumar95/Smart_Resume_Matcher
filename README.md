@@ -1,3 +1,4 @@
+<img width="1916" height="917" alt="Screenshot 2026-05-01 115724" src="https://github.com/user-attachments/assets/e65219a7-f86a-4b14-9476-12037ce0c3ad" />
 # Smart Resume Matcher
 A Streamlit-based web application that analyzes how well a resume matches a given job description using Natural Language Processing (NLP) techniques.
 
